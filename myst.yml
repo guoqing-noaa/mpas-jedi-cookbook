@@ -6,7 +6,7 @@ project:
   title: Project Pythia mpas-jedi-cookbook
   github: https://github.com/projectpythia/mpas-jedi-cookbook
   authors:
-    - name: Guoqing Ge, Orhan Eroglu, Man Zhang, Haidao Lin
+    - name: "Guoqing.Ge  Orhan.Eroglu  Man.Zhang Haidao.Lin"
   copyright: '2025'
   toc:
     - file: README.md
