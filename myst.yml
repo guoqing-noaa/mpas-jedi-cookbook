@@ -3,10 +3,13 @@ version: 1
 extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title: Project Pythia mpas-jedi-cookbook
+  title: MPAS+JEDI cookbook
   github: https://github.com/projectpythia/mpas-jedi-cookbook
   authors:
-    - name: "Guoqing.Ge  Orhan.Eroglu  Man.Zhang Haidao.Lin"
+    - name: Guoqing Ge
+    - name: Orhan.Eroglu
+    - name: Man.Zhang
+    - name: Haidao Lin
   copyright: '2025'
   toc:
     - file: README.md
@@ -19,3 +22,6 @@ project:
   jupyter:
       binder:
         repo: projectpythia/mpas-jedi-cookbook
+  abbreviations:
+    MPAS: Model for Prediction Across Scales
+    JEDI: Joint Effort for Data Assimilation Integration
