@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-LINMAGLA.js";import"/cookbook-template/build/_shared/chunk-2NH4LW52.js";export default a();
+import{a}from"/mpas-jedi-cookbook/build/_shared/chunk-LINMAGLA.js";import"/mpas-jedi-cookbook/build/_shared/chunk-2NH4LW52.js";export default a();
